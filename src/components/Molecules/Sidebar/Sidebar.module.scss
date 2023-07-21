@@ -1,0 +1,27 @@
+.sidebarContainer{
+    height: 100vh;
+    max-width: 280px;
+    background-color: #E3E3E3 ;
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.sidebarhead{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+// .sidebarMain{
+//     display: flex;
+//     flex-direction: column;
+//     justify-content: space-between;
+// }
+
+.logoutsec{
+    display: flex;
+    gap: 18px;
+}
+.sidebarusername{
+
+}

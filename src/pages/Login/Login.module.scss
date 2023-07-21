@@ -1,0 +1,22 @@
+.LoginContainer{
+    padding-top: 82px;
+    display: flex;
+    flex-direction: column;
+}
+.LoginHeaderContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 101px;
+    margin-bottom: 32px;
+}
+.LoginInputContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 32px;
+}
+.LoginHeaderText{
+    font-size: 32px;
+    font-family: 'Inter';
+    font-weight: 400;
+}

@@ -1,0 +1,22 @@
+.SignUpContainer{
+    padding-top: 82px;
+    display: flex;
+    flex-direction: column;
+}
+.SignupHeaderContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 101px;
+    margin-bottom: 32px;
+}
+.SignupInputContainer{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    margin-bottom: 32px;
+}
+.SignupHeaderText{
+    font-size: 32px;
+    font-family: 'Inter';
+    font-weight: 400;
+}
